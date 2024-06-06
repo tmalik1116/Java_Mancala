@@ -52,9 +52,4 @@ tmalik04@uoguelph.ca
 * 0.1
     * Initial Release
 
-## Acknowledgments
-
-* Portions of this code were re-used from A2 in which parts were written by AI
-* Partial credit to GPT-3.5 LLM
-
 
